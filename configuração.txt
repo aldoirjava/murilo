@@ -1,1 +1,3 @@
+
 aponta para servidor master, novo master
+nova configuraçao geral, mesma para dev e master
