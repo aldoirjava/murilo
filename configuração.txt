@@ -1,1 +1,1 @@
-aponta para servidor master
+aponta para servidor master, novo master
