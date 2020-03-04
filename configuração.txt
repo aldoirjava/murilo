@@ -1,1 +1,2 @@
 aponta para servidor dev.  outro dev
+nova configuraçao geral, mesma para dev e master
