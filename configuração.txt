@@ -1,1 +1,1 @@
-aponta para servidor dev
+aponta para servidor master
